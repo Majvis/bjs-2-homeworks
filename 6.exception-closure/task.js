@@ -23,7 +23,7 @@ class Triangle {
     this.b = b;
     this.c = c;
   }
-  
+    
   get perimeter() {
    return (this.a + this.b + this.c);
   }
